@@ -23,8 +23,9 @@ Ele utiliza as bibliotecas **OpenCV** e **MediaPipe**, desenvolvida pelo Google,
 ---
 
 ## 📦 Instalação
-
-1. **Clone este repositório:**
+1. **Importante**
+Use python com versões mais antigas de preferência 3.11 para evitar conflitos
+2. **Clone este repositório:**
    ```bash
    git clone https://github.com/seu-usuario/deteccao-facial-mediapipe.git
    cd deteccao-facial-mediapipe
